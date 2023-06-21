@@ -1,6 +1,6 @@
 # Jack Aubone
 
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackaubone)]
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackaubone)
 
 
 
